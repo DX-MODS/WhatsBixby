@@ -15,7 +15,7 @@
     "@neeraj-x0/nodetoolkit": "^1.0.3",
     "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
     "acrcloud": "^1.4.0",
-    "axios": "^1.4.0",
+    "axios": "^1.7.4",
     "bitly": "^4.1.1",
     "browser-id3-writer": "^4.4.0",
     "forever-agent":"^0.6.1",
