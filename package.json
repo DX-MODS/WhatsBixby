@@ -16,7 +16,7 @@
     "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
     "acrcloud": "^1.4.0",
     "axios": "^1.4.0",
-    "bitly": "^4.1.1",
+    "bitly": "^7.1.2",
     "browser-id3-writer": "^4.4.0",
     "forever-agent":"^0.6.1",
     "dotenv": "^16.4.5",
